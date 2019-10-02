@@ -1,0 +1,12 @@
+apply plugin: 'java'
+
+sourceCompatibility = 1.7
+version = '1'
+
+jar {
+	manifest {
+		attributes 'Main-Class': 'TileMonster',
+				   'Implementation-Title': 'Tile Monster',
+				   'Implementation-Version': version
+	}
+}
