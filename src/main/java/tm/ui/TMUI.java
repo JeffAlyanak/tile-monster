@@ -2631,9 +2631,7 @@ public class TMUI extends JFrame {
 **/
 
 	public void doHelpTopicsCommand() {
-		String userDir = System.getProperty("user.dir");
-		String safeUserDir = userDir.replaceAll("\\s","%20");
-		BrowserControl.displayURL("file://"+safeUserDir+"/docs/help_"+locale.toString()+".html");
+		BrowserControl.displayURL("https://github.com/JeffAlyanak/tile-monster/blob/master/manual/Manual.md");
 	}
 
 /**
