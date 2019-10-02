@@ -52,6 +52,6 @@ Format definitions have been moved into the `jar` itself for simpler portability
 Credits & License
 ---------
 
-This minor modernization of Ken Hanson's original Tile program is relesed under the same GNU GPLv2 as outlined in the [LICENSE](LICENSE).
+This minor modernization of Ken Hanson's original Tile program is released under the same GNU GPLv2 as outlined in the [LICENSE](LICENSE).
 
 Some of the code included also comes from Kerry Shetline <kerry@shetline.com>, Matthias Burg <matthias@burgsoft.de>, Jef Poskanzer <jef@acme.com>, J. David Eisenberg <david@catcode.com>, Richard J.Osbaldeston, Kent Hansen and John Cristy. Where this is the case, the requisite notices and licenses are included.
